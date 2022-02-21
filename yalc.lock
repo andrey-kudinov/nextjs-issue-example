@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "nextjs-with-storybook": {
+      "signature": "3223bd420351e61d1bf0f6aa38e3917a",
+      "file": true
+    }
+  }
+}
